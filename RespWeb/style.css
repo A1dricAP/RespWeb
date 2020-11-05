@@ -18,13 +18,16 @@ header {
   display: flex;
 }
 
-.logo-container {
+.logo-container h4 {
   flex: 1;
 }
 
 .logo {
   font-weight: 800;
+  font-size: 28px;
   margin: 5px;
+  padding: 0px 0px 0px 1px;
+  color: #c36cbb;
 }
 
 nav {
