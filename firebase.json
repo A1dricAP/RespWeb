@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "RespWeb",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
